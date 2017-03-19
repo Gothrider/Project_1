@@ -1,2 +1,2 @@
 # Project_1
-Interface intuitive
+Création d'une interface intuitive pour permettre de rendre plus simple l'utilisation dun ordinateur.
